@@ -245,7 +245,7 @@ const App = () => {
             </div>
 
         </div> : <div style={{width: '100%', height: '100%'}}>
-        <OwlCarousel items={1} loop autoplay autoplayTimeout={3000} autoplaySpeed={1000} dots>
+        <OwlCarousel items={1} loop autoplayTimeout={3000} autoplaySpeed={1000} dots>
         <div class='item' style={{width: '100%'}}>
             <div style={{backgroundColor: '#c8c7cb', width: '100%', height: '50vh'}}>
                 <img style={{width: '225px', position:'absolute', left: '-10px', top: '7vh'}} alt='img 1' src={l1_sh_img1}/>
@@ -305,7 +305,7 @@ const App = () => {
             <div style={{backgroundColor: '#32cfeb', width: '100%', height: '50vh'}}>
                 <img style={{width: '150px', position:'absolute', left: '5px', top: '-15vh'}} alt='img 1' src={l5shimg1}/>
                 <img style={{width: '150px', position:'absolute', left: '150px', top: '-2vh'}} alt='img 2' src={l5shimg2}/>
-                <img style={{width: '150px', position:'absolute', right: '-65px', bottom: '-5vh'}} alt='img 3' src={l5shimg3}/>
+                <img style={{width: '150px', position:'absolute', right: '-75px', bottom: '-7vh'}} alt='img 3' src={l5shimg3}/>
                 <img style={{width: '150px', position:'absolute', left: '150px', bottom: '-31vh'}} alt='img 4' src={l5shimg4}/>
                 <img style={{width: '150px', position:'absolute', left: '5px', bottom: '-18vh'}} alt='img 5' src={l5shimg5}/>
             </div>
