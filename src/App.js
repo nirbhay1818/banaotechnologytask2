@@ -256,7 +256,7 @@ const App = () => {
                 <h1>ABC 123</h1>
                 <p>This is sample text for ABC 123. This is sample text for ABC 123.</p>
                 <br />
-                <p style={{fontWeight: '500'}}>view case study ➡</p></div>
+                <p style={{fontWeight: '500'}}>View case study ➡</p></div>
             </div>
         </div>
         <div class='item' style={{width: '100%'}}>
@@ -290,7 +290,6 @@ const App = () => {
                 <img style={{width: '165px', position:'absolute', left: '30px', bottom: '-10vh'}} alt='img 1' src={l4shimg1}/>
                 <img style={{width: '165px', position:'absolute', right: '10px', top: '-7vh'}} alt='img 2' src={l4shimg2}/>
                 <img style={{width: '165px', position:'absolute', left: '0px', top: '-4vh'}} alt='img 3' src={l4shimgpizza}/>
-                <img style={{width: '165px', position:'absolute', right: '10px', bottom: '-32vh'}} alt='img 2' src={l4shimg2}/>
 
             </div>
             <div style={{position: 'absolute', color: 'white', width: '100%', height: '50vh', background: '#152339'}}>
@@ -298,7 +297,7 @@ const App = () => {
                 <h1>ABC 3</h1>
                 <p>This is sample text for ABC 123. This is sample text for ABC 123.</p>
                 <br />
-                <p style={{fontWeight: '500'}}>view case study ➡</p></div>
+                <p style={{fontWeight: '500'}}>View case study ➡</p></div>
             </div>
         </div>
         <div class='item' style={{width: '100%'}}>
@@ -314,7 +313,7 @@ const App = () => {
                 <h1>ABC 4</h1>
                 <p>This is sample text for ABC 123. This is sample text for ABC 123.</p>
                 <br />
-                <p style={{fontWeight: '500'}}>view case study ➡</p></div>
+                <p style={{fontWeight: '500'}}>View case study ➡</p></div>
             </div>
         </div>
         <div class='item' style={{width: '100%'}}>
