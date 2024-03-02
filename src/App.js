@@ -245,11 +245,11 @@ const App = () => {
             </div>
 
         </div> : <div style={{width: '100%', height: '100%'}}>
-        <OwlCarousel items={1} loop autoplayTimeout={3000} autoplaySpeed={1000} dots>
+        <OwlCarousel items={1} loop autoplay autoplayTimeout={3000} autoplaySpeed={1000} dots>
         <div class='item' style={{width: '100%'}}>
             <div style={{backgroundColor: '#c8c7cb', width: '100%', height: '50vh'}}>
-                <img style={{width: '235px', position:'absolute', left: '-10px', top: '18vh'}} alt='img 1' src={l1_sh_img1}/>
-                <img style={{width: '235px', position:'absolute', right: '-10px', top: '18vh'}} alt='img 2' src={l1_sh_img2}/>
+                <img style={{width: '225px', position:'absolute', left: '-10px', top: '7vh'}} alt='img 1' src={l1_sh_img1}/>
+                <img style={{width: '225px', position:'absolute', right: '-15px', top: '7vh'}} alt='img 2' src={l1_sh_img2}/>
             </div>
             <div style={{color: 'white', width: '100%', height: '50vh', backgroundColor: '#6343a2', position: 'absolute'}}>
                 <div style={{left: '5%', position: 'absolute', right: '5%'}}><img style={{marginTop: '-15px', width: '70%', backgroundColor:'white', border: '3px solid #6343a2', borderRadius: '15px'}} alt='img 1' src={l1_fh_img}/>
@@ -274,7 +274,7 @@ const App = () => {
         </div>
         <div class='item' style={{width: '100%'}}>
             <div style={{backgroundColor: '#15194a', width: '100%', height: '50vh'}}>
-                <img style={{width: '200px', position:'absolute', left: '5px', bottom: '-13vh'}} alt='img 1' src={l3shimg1}/>
+                <img style={{width: '200px', position:'absolute', left: '5px', bottom: '-18vh'}} alt='img 1' src={l3shimg1}/>
                 <img style={{width: '165px', position:'absolute', right: '10px', top: '-10vh'}} alt='img 2' src={l3shimg2}/>
             </div>
             <div style={{position: 'absolute', color: 'white', width: '100%', height: '50vh', background: '#0e1138'}}>
@@ -288,9 +288,9 @@ const App = () => {
         <div class='item' style={{width: '100%'}}>
             <div style={{backgroundColor: '#0d121b', width: '100%', height: '50vh'}}>
                 <img style={{width: '165px', position:'absolute', left: '30px', bottom: '-10vh'}} alt='img 1' src={l4shimg1}/>
-                <img style={{width: '165px', position:'absolute', right: '85px', top: '5vh'}} alt='img 2' src={l4shimg2}/>
+                <img style={{width: '165px', position:'absolute', right: '10px', top: '-7vh'}} alt='img 2' src={l4shimg2}/>
                 <img style={{width: '165px', position:'absolute', left: '0px', top: '-4vh'}} alt='img 3' src={l4shimgpizza}/>
-                <img style={{width: '165px', position:'absolute', right: '85px', bottom: '-18vh'}} alt='img 1' src={l4shimg1}/>
+                <img style={{width: '165px', position:'absolute', right: '10px', bottom: '-32vh'}} alt='img 2' src={l4shimg2}/>
 
             </div>
             <div style={{position: 'absolute', color: 'white', width: '100%', height: '50vh', background: '#152339'}}>
@@ -303,11 +303,11 @@ const App = () => {
         </div>
         <div class='item' style={{width: '100%'}}>
             <div style={{backgroundColor: '#32cfeb', width: '100%', height: '50vh'}}>
-                <img style={{width: '150px', position:'absolute', left: '5px', top: '-9vh'}} alt='img 1' src={l5shimg1}/>
-                <img style={{width: '150px', position:'absolute', left: '150px', top: '2vh'}} alt='img 2' src={l5shimg2}/>
-                <img style={{width: '150px', position:'absolute', right: '-55px', bottom: '-4vh'}} alt='img 3' src={l5shimg3}/>
-                <img style={{width: '150px', position:'absolute', left: '150px', bottom: '-21vh'}} alt='img 4' src={l5shimg4}/>
-                <img style={{width: '150px', position:'absolute', left: '5px', bottom: '-10vh'}} alt='img 5' src={l5shimg5}/>
+                <img style={{width: '150px', position:'absolute', left: '5px', top: '-15vh'}} alt='img 1' src={l5shimg1}/>
+                <img style={{width: '150px', position:'absolute', left: '150px', top: '-2vh'}} alt='img 2' src={l5shimg2}/>
+                <img style={{width: '150px', position:'absolute', right: '-65px', bottom: '-5vh'}} alt='img 3' src={l5shimg3}/>
+                <img style={{width: '150px', position:'absolute', left: '150px', bottom: '-31vh'}} alt='img 4' src={l5shimg4}/>
+                <img style={{width: '150px', position:'absolute', left: '5px', bottom: '-18vh'}} alt='img 5' src={l5shimg5}/>
             </div>
             <div style={{position: 'absolute', color: 'white', width: '100%', height: '50vh', background: '#1563e8'}}>
                 <div style={{left: '5%', position: 'absolute', right: '5%'}}>
